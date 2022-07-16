@@ -26,6 +26,8 @@ h2 {
 h3 {
     font-size: 25px;
     font-weight: bold;
+    padding: 0px;
+    margin: 0px;
 }
 
 .p1 {
@@ -52,17 +54,20 @@ h3 {
 }
 
 .donate-amount {
-    background-color: rgba(245, 243, 235, 0.846);
-    padding: 15px 5px;
+    background-color: rgba(249, 248, 246, 0.765);
+    padding: 15px 7px;
     margin: 5px;
+    border-radius: 5px;
 }
 
 .select-amount {
+    font-weight: bold;
     color: rgba(255, 0, 0, 0.717);
-    background-color: rgba(210, 136, 136, 0.571);
-    border: 2px solid red;
-    padding: 15px 5px;
+    background-color: rgba(219, 200, 200, 0.448);
+    border: 2px solid rgba(219, 24, 24, 0.677);
+    padding: 15px 7px;
     margin: 5px;
+    border-radius: 5px;
 }
 
 .amountdivs-display {
