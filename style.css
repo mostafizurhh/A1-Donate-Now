@@ -102,3 +102,28 @@ input {
 .div5 {
     text-align: center;
 }
+
+.donate-plan-div {
+    text-align: left;
+    padding: 30px;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.donate-plan-display {
+    display: inline-flex;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.div6 {
+    background-color: rgba(203, 235, 235, 0.589);
+}
+
+.div7 {
+    background-color: rgba(246, 236, 227, 0.871);
+}
+
+.div8 {
+    background-color: rgb(244, 244, 198);
+}
