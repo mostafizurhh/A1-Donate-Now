@@ -54,6 +54,7 @@ h3 {
 .donate-amount {
     background-color: rgba(245, 243, 235, 0.846);
     padding: 15px 5px;
+    margin: 5px;
 }
 
 .select-amount {
@@ -61,4 +62,11 @@ h3 {
     background-color: rgba(210, 136, 136, 0.571);
     border: 2px solid red;
     padding: 15px 5px;
+    margin: 5px;
+}
+
+.amountdivs-display {
+    display: inline-flex;
+    justify-content: center;
+    width: 100%;
 }
