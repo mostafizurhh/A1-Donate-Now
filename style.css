@@ -12,6 +12,10 @@ h1 {
     margin: 0%;
 }
 
+.p1 {
+    margin-bottom: 20px;
+}
+
 .link-button {
     color: white;
     border-radius: 5px;
