@@ -127,3 +127,13 @@ input {
 .div8 {
     background-color: rgb(244, 244, 198);
 }
+
+.display-flex {
+    display: flex;
+    justify-content: center;
+}
+
+.activity-overview {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
