@@ -5,10 +5,6 @@ body {
     margin: 0%;
 }
 
-.section-margin {
-    margin-bottom: 40px;
-}
-
 h1 {
     font-size: 50px;
     font-weight: bold;
@@ -17,7 +13,7 @@ h1 {
 }
 
 h2 {
-    font-size: 30px;
+    font-size: 35px;
     font-weight: bold;
     margin: 0%;
     padding: 0%;
@@ -42,6 +38,10 @@ hr {
 
 .p2 {
     text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .p3 {
@@ -57,17 +57,14 @@ hr {
 }
 
 .div1 {
+    justify-content: center;
     text-align: center;
     color: white;
     background: linear-gradient(0deg, rgba(15, 15, 15, 0.945), rgba(214, 231, 231, 0.324)), url(images/donation0.jpg) no-repeat center / cover;
     padding: 100px 300px;
 }
 
-.div2 {
-    text-align: center;
-}
-
-/* div3 */
+/* div3 start */
 
 .donate-amount {
     background-color: rgba(249, 248, 246, 0.765);
@@ -92,9 +89,11 @@ hr {
     width: 100%;
 }
 
-/* div3 */
+/* div3 end */
 
-.div4 {
-    justify-content: center;
+.section2 {
     text-align: center;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
