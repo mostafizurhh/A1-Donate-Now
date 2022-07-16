@@ -27,9 +27,13 @@ h3 {
 }
 
 hr {
-    margin-top: 0px;
+    color: pink;
     margin-bottom: 20px;
     width: 50%;
+}
+
+input {
+    color: rgba(222, 177, 184, 0.792);
 }
 
 .p1 {
@@ -47,9 +51,9 @@ hr {
 .link-button {
     color: white;
     border-radius: 5px;
-    padding: 5px 10px;
+    padding: 10px;
     text-decoration: none;
-    background-color: tomato;
+    background-color: rgba(239, 86, 59, 0.897);
 }
 
 .div1 {
