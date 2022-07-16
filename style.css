@@ -5,11 +5,27 @@ body {
     margin: 0%;
 }
 
+.section-margin {
+    margin-bottom: 40px;
+}
+
 h1 {
     font-size: 50px;
     font-weight: bold;
     padding: 0%;
     margin: 0%;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0%;
+    padding: 0%;
+}
+
+h3 {
+    font-size: 25px;
+    font-weight: bold;
 }
 
 .p1 {
@@ -25,9 +41,24 @@ h1 {
 }
 
 .div1 {
-    justify-content: center;
     text-align: center;
     color: white;
     background: linear-gradient(0deg, rgba(15, 15, 15, 0.945), rgba(214, 231, 231, 0.324)), url(images/donation0.jpg) no-repeat center / cover;
     padding: 100px 300px;
+}
+
+.div2 {
+    text-align: center;
+}
+
+.donate-amount {
+    background-color: rgba(245, 243, 235, 0.846);
+    padding: 15px 5px;
+}
+
+.select-amount {
+    color: rgba(255, 0, 0, 0.717);
+    background-color: rgba(210, 136, 136, 0.571);
+    border: 2px solid red;
+    padding: 15px 5px;
 }
