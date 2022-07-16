@@ -30,8 +30,24 @@ h3 {
     margin: 0px;
 }
 
+hr {
+    margin-top: 0px;
+    margin-bottom: 20px;
+    width: 50%;
+}
+
 .p1 {
     margin-bottom: 20px;
+}
+
+.p2 {
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+}
+
+.p3 {
+    margin-bottom: 5px;
 }
 
 .link-button {
@@ -52,6 +68,8 @@ h3 {
 .div2 {
     text-align: center;
 }
+
+/* div3 */
 
 .donate-amount {
     background-color: rgba(249, 248, 246, 0.765);
@@ -74,4 +92,11 @@ h3 {
     display: inline-flex;
     justify-content: center;
     width: 100%;
+}
+
+/* div3 */
+
+.div4 {
+    justify-content: center;
+    text-align: center;
 }
