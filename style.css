@@ -1,3 +1,4 @@
+/* common styles start */
 body {
     font-family: 'Cormorant SC', serif;
     font-size: 12px;
@@ -56,6 +57,9 @@ input {
     background-color: rgba(239, 86, 59, 0.897);
 }
 
+/* common styles end */
+
+/* Header Section Start */
 .div1 {
     justify-content: center;
     text-align: center;
@@ -64,8 +68,11 @@ input {
     padding: 100px 300px;
 }
 
-/* div3 start */
+/* header section end */
 
+/* section2 start */
+
+/* div3 start */
 .donate-amount {
     background-color: rgba(249, 248, 246, 0.765);
     padding: 15px 7px;
@@ -99,6 +106,9 @@ input {
     margin-bottom: 30px;
 }
 
+/* section2 end */
+
+/* section3 start */
 .div5 {
     text-align: center;
 }
@@ -128,6 +138,9 @@ input {
     background-color: rgb(244, 244, 198);
 }
 
+/* section3 end */
+
+/* activity section start */
 .display-flex {
     display: flex;
     justify-content: center;
@@ -137,3 +150,5 @@ input {
     padding-top: 50px;
     padding-bottom: 50px;
 }
+
+/* activity section end */
