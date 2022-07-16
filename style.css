@@ -102,8 +102,10 @@ input {
 .section2 {
     text-align: center;
     justify-content: center;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 /* section2 end */
@@ -140,10 +142,12 @@ input {
 
 /* section3 end */
 
-/* activity section start */
-.display-flex {
+/* section4 start */
+.section4-display {
     display: flex;
     justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .activity-overview {
@@ -151,4 +155,4 @@ input {
     padding-bottom: 50px;
 }
 
-/* activity section end */
+/* section4 end */
