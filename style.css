@@ -209,6 +209,15 @@ hr {
 
 .display {
     display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.section6-div2 {
+    background-color: rgb(249, 249, 211);
+    margin: 30px 180px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 /* section6 end */
