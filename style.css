@@ -66,7 +66,7 @@ hr {
 /* common styles end */
 
 /* Header Section Start */
-.div1 {
+.section1-div1 {
     justify-content: center;
     text-align: center;
     color: white;
@@ -78,7 +78,7 @@ hr {
 
 /* section2 start */
 
-/* div3 start */
+/* donate amount div start */
 .donate-amount {
     background-color: rgba(249, 248, 246, 0.765);
     padding: 15px 7px;
@@ -103,9 +103,9 @@ hr {
     margin-bottom: 30px;
 }
 
-/* div3 end */
+/* donate amount div end */
 
-.section2 {
+.section2-display {
     text-align: center;
     justify-content: center;
     margin-top: 50px;
@@ -117,7 +117,7 @@ hr {
 /* section2 end */
 
 /* section3 start */
-.div5 {
+.section3-div1 {
     text-align: center;
 }
 
@@ -134,15 +134,15 @@ hr {
     padding-right: 80px;
 }
 
-.div6 {
+.section3-div2 {
     background-color: rgba(203, 235, 235, 0.589);
 }
 
-.div7 {
+.section3-div3 {
     background-color: rgba(246, 236, 227, 0.871);
 }
 
-.div8 {
+.section3-div4 {
     background-color: rgb(244, 244, 198);
 }
 
