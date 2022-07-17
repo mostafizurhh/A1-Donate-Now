@@ -33,28 +33,6 @@ h4 {
     color: orangered;
 }
 
-hr {
-    color: pink;
-    margin-bottom: 20px;
-    width: 50%;
-}
-
-.input1 {
-    color: rgba(222, 177, 184, 0.792);
-}
-
-.p1 {
-    margin-bottom: 20px;
-}
-
-.p2 {
-    text-align: center;
-    margin-top: 5px;
-    margin-bottom: 5px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-
 .link-button {
     color: white;
     border-radius: 5px;
@@ -66,19 +44,31 @@ hr {
 /* common styles end */
 
 /* Header Section Start */
-.section1-div1 {
+.header-p {
+    margin-bottom: 20px;
+}
+
+.header-div1 {
     justify-content: center;
     text-align: center;
     color: white;
-    background: linear-gradient(0deg, rgba(15, 15, 15, 0.945), rgba(214, 231, 231, 0.324)), url(images/donation0.jpg) no-repeat center / cover;
+    background: linear-gradient(0deg, rgba(15, 15, 15, 0.945), rgba(214, 231, 231, 0.324)), url(icons/donation0.jpg) no-repeat center / cover;
     padding: 100px 300px;
 }
 
 /* header section end */
 
 /* section2 start */
+.section2-p2 {
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
 
 /* donate amount div start */
+
 .donate-amount {
     background-color: rgba(249, 248, 246, 0.765);
     padding: 15px 7px;
@@ -104,6 +94,15 @@ hr {
 }
 
 /* donate amount div end */
+.section2-input {
+    color: rgba(222, 177, 184, 0.792);
+}
+
+hr {
+    color: pink;
+    margin-bottom: 20px;
+    width: 50%;
+}
 
 .section2-display {
     text-align: center;
@@ -187,7 +186,7 @@ hr {
     margin-top: 70px;
 }
 
-.input2 {
+.section6-input1 {
     background-color: rgba(245, 214, 214, 0.62);
     color: rgba(222, 177, 184, 0.792);
     font-weight: bold;
@@ -197,7 +196,7 @@ hr {
     border-width: 0px;
 }
 
-.input3 {
+.section6-input2 {
     background-color: rgba(239, 86, 59, 0.897);
     color: white;
     padding: 10px 20px;
@@ -207,7 +206,7 @@ hr {
 
 }
 
-.form-display {
+.section6-form-display {
     display: flex;
     justify-content: center;
 }
