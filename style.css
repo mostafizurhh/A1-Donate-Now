@@ -39,7 +39,7 @@ hr {
     width: 50%;
 }
 
-input {
+.input1 {
     color: rgba(222, 177, 184, 0.792);
 }
 
@@ -174,4 +174,41 @@ input {
     padding-right: 80px;
 }
 
+.section5-bg {
+    background-color: rgba(252, 250, 248, 0.689);
+}
+
 /* section5 end */
+
+/* section6 start */
+.section6-div1 {
+    text-align: center;
+    justify-content: center;
+    margin-top: 70px;
+}
+
+.input2 {
+    background-color: rgba(245, 214, 214, 0.62);
+    color: rgba(222, 177, 184, 0.792);
+    font-weight: bold;
+    padding: 10px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-width: 0px;
+}
+
+.input3 {
+    background-color: rgba(239, 86, 59, 0.897);
+    color: white;
+    padding: 10px 20px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-width: 0px;
+
+}
+
+.display {
+    display: flex;
+}
+
+/* section6 end */
