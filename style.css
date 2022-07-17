@@ -207,9 +207,8 @@ hr {
 
 }
 
-.display {
+.form-display {
     display: flex;
-    text-align: center;
     justify-content: center;
 }
 
@@ -221,3 +220,27 @@ hr {
 }
 
 /* section6 end */
+
+/* footer start */
+strong {
+    font-size: large;
+    font-weight: 900;
+    color: rgb(243, 50, 17);
+}
+
+.footer {
+    background-color: black;
+    text-align: center;
+    margin-top: 70px;
+}
+
+.footer-p {
+    color: white;
+}
+
+.footer-div {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+/* footer end */
